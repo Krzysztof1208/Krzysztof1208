@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Krzysztof1208
-- 👀 I’m interested in html
-- 🌱 I’m currently learning basics of html
+- 👋 Hi, I’m @Krzysztof
+- 👀 I’m interested in testing
+- 🌱 I’m currently learning test automation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
